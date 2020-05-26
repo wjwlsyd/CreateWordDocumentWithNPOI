@@ -68,7 +68,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Word\TestData.cs" />
+    <Compile Include="Excel\ExcelGenerator.cs" />
+    <Compile Include="Helpers\ExcelHelper.cs" />
+    <Compile Include="Model\ExcelDataDto.cs" />
+    <Compile Include="TestData\TestData.cs" />
     <Compile Include="Model\DocumentDataDto.cs" />
     <Compile Include="Model\DocumentDataSet.cs" />
     <Compile Include="Word\DocumentGenerator.cs" />

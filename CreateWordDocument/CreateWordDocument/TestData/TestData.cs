@@ -76,5 +76,34 @@ namespace CreateWordDocument
             dataSets.Add(dataSet1);
             return dataSets;
         }
+
+        public static List<ExcelDataDto> CreateExcelData()
+        {
+            var results = new List<ExcelDataDto>();
+            var result1 = new ExcelDataDto()
+            {
+                Name = "John Smith",
+                SubjectName = "C.S",
+                DateOfBirth = DateTime.Parse("1991-1-1"),
+                Address = "ABC Street,Colifornia",
+                TeacherName = "Karina White",
+                Score = 98
+            };
+
+            var result2 = new ExcelDataDto()
+            {
+                Name = "Jimmy Pinkman",
+                SubjectName = "C.S",
+                DateOfBirth = DateTime.Parse("1991-1-1"),
+                Address = "ABC Street,Colifornia",
+                TeacherName = "Karina White",
+                Score = 78
+            };
+
+            results.Add(result1);
+            results.Add(result2);
+
+            return results;
+        }
     }
 }

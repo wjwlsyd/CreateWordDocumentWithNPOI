@@ -1,0 +1,15 @@
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\bin\Debug\CreateWordDocument.exe.config
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\bin\Debug\CreateWordDocument.exe
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\bin\Debug\CreateWordDocument.pdb
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\bin\Debug\BouncyCastle.Crypto.dll
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\bin\Debug\NPOI.dll
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\bin\Debug\NPOI.OOXML.dll
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\bin\Debug\BouncyCastle.Crypto.xml
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\obj\Debug\CreateWordDocument.csprojResolveAssemblyReference.cache
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\obj\Debug\CreateWordDocument.exe
+D:\Codes\CreateWordDocument\CreateWordDocument\CreateWordDocument\obj\Debug\CreateWordDocument.pdb
